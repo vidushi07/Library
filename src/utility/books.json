@@ -1,0 +1,246 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 350,
+      "ratings": 4.5,
+      "genre": "Personal Finance",
+      "imageSrc": "https://m.media-amazon.com/images/I/41r6F2LRf8L._SY445_SX342_.jpg",
+      "pages": 252,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "price": 430,
+      "ratings": 4.8,
+      "genre": "Self-Help",
+      "imageSrc": "https://m.media-amazon.com/images/I/91bYsX41DVL._SY466_.jpg",
+      "pages": 320,
+      "quantity": 7
+    },
+    {
+      "id": 3,
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 180,
+      "ratings": 4.6,
+      "genre": "Personal Finance",
+      "imageSrc": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_.jpg",
+      "pages": 323,
+      "quantity": 2
+    },
+    {
+      "id": 4,
+      "name": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "price": 450,
+      "ratings": 4.7,
+      "genre": "Romance",
+      "imageSrc": "https://m.media-amazon.com/images/I/81Bg398BAzL._SY466_.jpg",
+      "pages": 230,
+      "quantity": 9
+    },
+    {
+      "id": 5,
+      "name": "Ikigai",
+      "author": "Hector Garcia and Francesc Miralles",
+      "price": 280,
+      "ratings": 4.4,
+      "genre": "Self-Help",
+      "imageSrc": "https://m.media-amazon.com/images/I/814L+vq01mL._SY466_.jpg",
+      "pages": 218,
+      "quantity": 4
+    },
+    {
+      "id": 6,
+      "name": "The Power of Your Subconscious Mind",
+      "author": "Joseph Murphy",
+      "price": 310,
+      "ratings": 4.5,
+      "genre": "Self-Help",
+      "imageSrc": "https://m.media-amazon.com/images/I/71sBtM3Yi5L._SY466_.jpg",
+      "pages": 232,
+      "quantity": 6
+    },
+    {
+      "id": 7,
+      "name": "The Hungry Tide",
+      "author": "Amitav Ghosh",
+      "price": 280,
+      "ratings": 4.3,
+      "genre": "Fiction",
+      "imageSrc": "https://m.media-amazon.com/images/I/8174GzkfwoL._SY466_.jpg",
+      "pages": 400,
+      "quantity": 3
+    },
+    {
+      "id": 8,
+      "name": "You Only Live Once",
+      "author": "Stuti Changle",
+      "price": 240,
+      "ratings": 4.6,
+      "genre": "Romance",
+      "imageSrc": "https://m.media-amazon.com/images/I/71dNsRuYL7L._SY466_.jpg",
+      "pages": 240,
+      "quantity": 5
+    },
+    {
+      "id": 9,
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 190,
+      "ratings": 4.8,
+      "genre": "Fiction",
+      "imageSrc": "https://m.media-amazon.com/images/I/51bVNTqHFlL._SY466_.jpg",
+      "pages": 170,
+      "quantity": 8
+    },
+    {
+      "id": 10,
+      "name": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "price": 220,
+      "ratings": 4.7,
+      "genre": "History",
+      "imageSrc": "https://m.media-amazon.com/images/I/713jIoMO3UL._SY466_.jpg",
+      "pages": 512,
+      "quantity": 10
+    },
+    {
+      "id": 11,
+      "name": "A Man Called Ove",
+      "author": "Fredrik Backman",
+      "price": 100,
+      "ratings": 4.5,
+      "genre": "Fiction",
+      "imageSrc": "https://m.media-amazon.com/images/I/81DXIOk9glL._SY466_.jpg",
+      "pages": 320,
+      "quantity": 5
+    },
+    {
+      "id": 12,
+      "name": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "price": 180,
+      "ratings": 4.6,
+      "genre": "Psychology",
+      "imageSrc": "https://m.media-amazon.com/images/I/61nTspM+BYL._SY466_.jpg",
+      "pages": 160,
+      "quantity": 7
+    },
+    {
+      "id": 13,
+      "name": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "price": 50,
+      "ratings": 4.2,
+      "genre": "Mystery",
+      "imageSrc": "https://m.media-amazon.com/images/I/81JJPDNlxSL._SY466_.jpg",
+      "pages": 352,
+      "quantity": 8
+    },
+    {
+      "id": 14,
+      "name": "The Immortals of Meluha",
+      "author": "Amish Tripathi",
+      "price": 210,
+      "ratings": 4.4,
+      "genre": "Fiction",
+      "imageSrc": "https://m.media-amazon.com/images/I/41moQrlKZKL._SY445_SX342_.jpg",
+      "pages": 415,
+      "quantity": 6
+    },
+    {
+      "id": 15,
+      "name": "The Secret of the Nagas",
+      "author": "Amish Tripathi",
+      "price": 190,
+      "ratings": 4.3,
+      "genre": "Fiction",
+      "imageSrc": "https://m.media-amazon.com/images/I/81R5xrntmdL._SY466_.jpg",
+      "pages": 398,
+      "quantity": 9
+    },
+    {
+      "id": 16,
+      "name": "I Hear You",
+      "author": "Michael Sorensen",
+      "price": 150,
+      "ratings": 4.6,
+      "genre": "Self-Help",
+      "imageSrc": "https://m.media-amazon.com/images/I/81R5xrntmdL._SY466_.jpg",
+      "pages": 288,
+      "quantity": 4
+    },
+    {
+      "id": 17,
+      "name": "The Palace of Illusions",
+      "author": "Chitra Banerjee Divakaruni",
+      "price": 220,
+      "ratings": 4.4,
+      "genre": "Fiction",
+      "imageSrc": "https://m.media-amazon.com/images/I/512BeZfOAdL._SY445_SX342_.jpg",
+      "pages": 384,
+      "quantity": 6
+    },
+    {
+      "id": 18,
+      "name": "One Indian Girl",
+      "author": "Chetan Bhagat",
+      "price": 570,
+      "ratings": 4.1,
+      "genre": "Romance",
+      "imageSrc": "https://m.media-amazon.com/images/I/81wyziLQ+DL._SY466_.jpg",
+      "pages": 280,
+      "quantity": 2
+    },
+    {
+      "id": 19,
+      "name": "Wings of Fire",
+      "author": "A.P.J. Abdul Kalam and Arun Tiwari",
+      "price": 660,
+      "ratings": 4.5,
+      "genre": "Biography",
+      "imageSrc": "https://m.media-amazon.com/images/I/71KKZlVjbwL._SY466_.jpg",
+      "pages": 180,
+      "quantity": 10
+    },
+    {
+      "id": 20,
+      "name": "All the Bright Places",
+      "author": "Jennifer Niven",
+      "price": 990,
+      "ratings": 4.3,
+      "genre": "Young Adult",
+      "imageSrc": "https://m.media-amazon.com/images/I/71zP55wVBES._SY466_.jpg",
+      "pages": 432,
+      "quantity": 7
+    },
+    {
+      "id": 26,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 290,
+      "ratings": 4.9,
+      "genre": "Fantasy",
+      "imageSrc": "https://m.media-amazon.com/images/I/81eB+7+CkUL._AC_SY606_.jpg",
+      "pages": 320,
+      "quantity": 10
+    },
+    {
+      "id": 49,
+      "name": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "price": 230,
+      "ratings": 4.2,
+      "genre": "Mystery",
+      "imageSrc": "https://m.media-amazon.com/images/I/81JJPDNlxSL._AC_SY679_.jpg",
+      "pages": 352,
+      "quantity": 7
+    }
+  ]
+}
